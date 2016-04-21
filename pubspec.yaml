@@ -1,4 +1,5 @@
 name: __projectName__
+author: __author__ <__email__>
 version: 0.0.1
 description: A simple console application.
 #dependencies:
